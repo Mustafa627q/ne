@@ -1,4 +1,4 @@
-هههههfrom kivy.clock import Clock
+from kivy.clock import Clock
 from kivy.properties import StringProperty
 from kivymd.app import MDApp
 from kivymd.uix.label import MDLabel , MDIcon
@@ -456,5 +456,5 @@ class FoucsApp(MDApp):
   
         self.root.current_screen.ids.la.text = f'\n{self.h:02}:{self.m:02}:{self.s:02}\n'
         self.root.current_screen.ids.no.text = f'\n{self.h:02}:{self.m:02}:{self.s:02}\n'
-            
+            hey 
 FoucsApp().run()
