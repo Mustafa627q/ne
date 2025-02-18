@@ -456,5 +456,5 @@ class FoucsApp(MDApp):
   
         self.root.current_screen.ids.la.text = f'\n{self.h:02}:{self.m:02}:{self.s:02}\n'
         self.root.current_screen.ids.no.text = f'\n{self.h:02}:{self.m:02}:{self.s:02}\n'
-            hey 
+print ("hey")
 FoucsApp().run()
