@@ -1,4 +1,4 @@
-from kivy.clock import Clock
+هههههfrom kivy.clock import Clock
 from kivy.properties import StringProperty
 from kivymd.app import MDApp
 from kivymd.uix.label import MDLabel , MDIcon
